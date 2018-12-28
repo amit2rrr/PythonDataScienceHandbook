@@ -1,5 +1,5 @@
 numpy
-pandas
+kandas
 scipy
 scikit-learn
 scikit-image
